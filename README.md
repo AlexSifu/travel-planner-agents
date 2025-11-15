@@ -152,31 +152,6 @@ Flujo al ejecutar:
 
 ---
 
-## Capturas sugeridas
-
-En el repositorio (por ejemplo en una carpeta `docs/` o `img/`) se pueden agregar:
-
-- `img/jade-agents.png`: captura de la GUI de JADE mostrando los agentes activos.
-- `img/console-output-cusco.png`: captura de la consola con un caso de prueba (por ejemplo Cusco, 4 dias, presupuesto 1500).
-
-Luego se pueden referenciar en este README:
-
-```markdown
-![GUI de JADE](img/jade-agents.png)
-![Salida de consola](img/console-output-cusco.png)
-```
-
----
-
-## Posibles extensiones
-
-- Integrar APIs reales de clima y costos.
-- Agregar agentes para transporte, alojamiento o gestion de riesgo.
-- Exponer la funcionalidad mediante una API REST o una interfaz web.
-- Permitir multiples consultas concurrentes de diferentes usuarios.
-
----
-
 ## Autor
 
 - ALEX GEISLER SIFUENTES AGURTO
